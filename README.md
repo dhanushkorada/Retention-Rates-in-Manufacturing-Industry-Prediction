@@ -1,6 +1,4 @@
-# Retention-Rates-in-Manufacturing-Industry-Prediction
-
-# Recruitment and Retention Prediction in Manufacturing Industry
+# Retention Rates Prediction in Manufacturing Industry
 
 Welcome to the Recruitment and Retention Prediction project for the manufacturing industry. This project focuses on predicting employee retention rates using machine learning techniques to help manufacturing companies better understand and manage their workforce.
 
